@@ -2,4 +2,4 @@
 export const API = 'https://urlshortener-server.onrender.com/' ;
 
 // client side URL for new password
-export const AppLink = '' ;
+export const AppLink = 'url-shortener-snowy-two.vercel.app' ;
